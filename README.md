@@ -1,2 +1,2 @@
 # TuteDudeAssignments
-This repository stores the assignments of Tutedue
+This repository stores the assignments of Tutedude
